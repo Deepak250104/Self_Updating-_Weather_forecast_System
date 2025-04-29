@@ -1,0 +1,8 @@
+kaggle==1.7.4.2
+pandas
+scikit-learn
+numpy
+matplotlib
+seaborn
+geopy
+python-dateutil>=2.5.3
