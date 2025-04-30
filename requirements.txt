@@ -1,8 +1,10 @@
 kaggle==1.7.4.2
 pandas
-scikit-learn
+scikit-learn 
 numpy
 matplotlib
 seaborn
 geopy
 python-dateutil>=2.5.3
+lightgbm
+
